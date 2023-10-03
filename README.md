@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zshivam
 - 👀 I’m interested in coding.  
 - 🌱 I’m currently learning Python and HTML...
-- 📫 How to reach me...
 - gmail-zshivam19@gmail.com
 
 <!---
