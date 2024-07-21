@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zshivam
 - 👀 I’m interested in coding.  
-- 🌱 I’m currently learning Python and HTML...
+- 🌱 I’m currently learning Web dev and DSA in JAVA
 - gmail-zshivam19@gmail.com
 
 <!---
