@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zshivam
+-  Hi,this is Shivam
 -  I’m interested in coding.
 -  Currently learning Web dev and DSA in JAVA
 - gmail-zshivam19@gmail.com
