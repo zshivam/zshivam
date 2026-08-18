@@ -84,13 +84,11 @@ College memory-sharing platform with a polaroid aesthetic. FastAPI + React, JWT 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zshivam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zshivam&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=zshivam&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zshivam&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
 ---
 ---
 
@@ -118,9 +116,9 @@ College memory-sharing platform with a polaroid aesthetic. FastAPI + React, JWT 
   <a href="mailto:zshivam19@gmail.com">
     <img src="https://img.shields.io/badge/Email-zshivam19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/zshivam24/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
