@@ -51,14 +51,15 @@ Docker           ████████████░░░░░░░  60%
 <tr>
 <td width="50%">
 
-**🛒 [KapKart](https://github.com/zshivam)**
-Hyperlocal grocery delivery platform built for my own village. Next.js 15 + MongoDB, OTP auth, Razorpay payments, live rider GPS tracking, Hinglish voice search.
+**📸 [Pankaj Studio](https://www.pankajstudio.in/)**
+Photography studio portfolio & booking site. JWT auth, Cloudinary image handling, automated email notifications.
 
 </td>
 <td width="50%">
 
-**📸 [Pankaj Studio](https://github.com/zshivam)**
-Photography studio portfolio & booking site. JWT auth, Cloudinary image handling, automated email notifications.
+**🛒 [KapKart](https://github.com/zshivam)**
+Hyperlocal grocery delivery platform built for my own village. Next.js 15 + MongoDB, OTP auth, Razorpay payments, live rider GPS tracking, Hinglish voice search.
+
 
 </td>
 </tr>
