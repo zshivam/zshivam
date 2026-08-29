@@ -78,27 +78,6 @@ College memory-sharing platform with a polaroid aesthetic. FastAPI + React, JWT 
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zshivam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=zshivam&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zshivam&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
----
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zshivam&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
