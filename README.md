@@ -18,7 +18,7 @@
 
 - 🎓 B.Tech in Computer Science & Engineering — Batch 2022–26
 - 💻 I build end-to-end products — OTP auth, live payments, real-time GPS tracking, the works
-- 🌱 Currently sharpening **Data Structures & Algorithms in Java** and going deeper into web dev
+- 🌱 Currently sharpening **Data Structures & Algorithms in C++** and going deeper into web dev
 - 📫 Reach me at **zshivam19@gmail.com**
 - ⚡ Fun fact: most junior devs ship to-do apps. I shipped a grocery delivery platform to my own village.
 
